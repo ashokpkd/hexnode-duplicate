@@ -49,11 +49,6 @@ Challenges Faced
 
 Extracting assets and content without a predefined UI
 
-Finding design inspiration from various sources
-
-Creating reusable components for consistency
-
-Using placeholder data for testing
 
 Build for Production
 
@@ -65,10 +60,7 @@ Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-License
-
-This project is licensed under the MIT License.
 
 Author
 
-Your NameGitHub: ashokpkd
+GitHub: ashokpkd
