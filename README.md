@@ -1,12 +1,74 @@
-# React + Vite
+React + Vite + Tailwind CSS Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview
 
-Currently, two official plugins are available:
+This is a React.js application built using Vite for fast development and Tailwind CSS for styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
 
-## Expanding the ESLint configuration
+Fast development with Vite
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Utility-first styling with Tailwind CSS
+
+Modular React components
+
+Hot module replacement (HMR)
+
+Installation & Setup
+
+Clone the Repository
+
+git clone https://github.com/ashokpkd/hexnode-duplicate.git
+cd hexnode-duplicate
+
+Install Dependencies
+
+npm install
+
+Start Development Server
+
+npm run dev
+
+Access the application at http://localhost:5173/.
+
+Styling with Tailwind CSS
+
+Tailwind CSS is configured in tailwind.config.js.
+
+Example configuration:
+
+module.exports = {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+
+Challenges Faced
+
+Extracting assets and content without a predefined UI
+
+Finding design inspiration from various sources
+
+Creating reusable components for consistency
+
+Using placeholder data for testing
+
+Build for Production
+
+To create an optimized build:
+
+npm run build
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
+
+Author
+
+Your NameGitHub: ashokpkd
