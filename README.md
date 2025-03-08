@@ -18,7 +18,7 @@ Installation & Setup
 
 Clone the Repository
 
-git clone https://github.com/ashokpkd/hexnode-duplicate.git
+git clone https://github.com/ashokpkd/hexnode-duplicate.git ,
 cd hexnode-duplicate
 
 Install Dependencies
